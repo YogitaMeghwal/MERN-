@@ -1,0 +1,37 @@
+.main{
+    text-align:justify; 
+    max-width: 600px;
+     margin: 0 auto;
+     background-color:rgb(234, 173, 173);
+}
+.profile{
+     text-align: center;
+     color:rgb(54, 130, 33);
+     text-decoration: underline;
+}
+.img{
+    height:200px; 
+    width:200px; display:block;
+    margin:auto;
+    border-radius: 100px;
+
+    
+}
+.bio{
+   font-weight: bold; 
+   font-size: 20px;
+   color: rgb(171, 58, 58);
+}
+#bio1{
+ color: rgb(55, 55, 120);
+ padding-left: 10px;
+}
+.mail{
+    font-weight: bold;
+     font-size: 20px;
+     padding-left: 10px;
+}
+
+h2{
+    padding-left: 10px;
+}
